@@ -18,3 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 <img src="screenshot.jpeg" height="500em" />  
 
+## Packages used:
+<ul>
+  <li>  rflutter_alert: ^1.0.3</li>
+</ul>
+
